@@ -1,0 +1,221 @@
+composer_id,name,complete_name,birth,death,epoch,recommended,popular
+0,Adams,John Adams,1947-01-01,,21st Century,1.0,0
+1,Adès,Thomas Adès,1971-01-01,,21st Century,,0
+2,Albéniz,Isaac Albéniz,1860-01-01,1909-01-01,Late Romantic,,0
+3,Albinoni,Tomaso Albinoni,1671-01-01,1751-01-01,Baroque,,0
+4,Antheil,George Antheil,1900-01-01,1959-01-01,20th Century,,0
+5,Arnold,Malcolm Arnold,1921-01-01,2006-01-01,Post-War,,0
+6,Babbitt,Milton Babbitt,1916-01-01,2011-01-29,Post-War,,0
+7,Bach,Johann Sebastian Bach,1685-01-01,1750-01-01,Baroque,1.0,1
+8,"Bach, C.P.E.",Carl Philipp Emanuel Bach,1714-01-01,1788-01-01,Classical,,0
+9,"Bach, J.C.",Johann Christian Bach,1735-01-01,1782-01-01,Classical,,0
+10,Balakirev,Mily Balakirev,1837-01-01,1910-01-01,Romantic,,0
+11,Barber,Samuel Barber,1910-01-01,1981-01-01,20th Century,0.0,0
+12,Bartók,Béla Bartók,1881-01-01,1945-01-01,20th Century,1.0,0
+13,Bax,Arnold Bax,1883-01-01,1953-01-01,20th Century,,0
+14,Beethoven,Ludwig van Beethoven,1770-01-01,1827-01-01,Early Romantic,1.0,1
+15,Bellini,Vincenzo Bellini,1801-01-01,1835-01-01,Early Romantic,,0
+16,Berg,Alban Berg,1885-01-01,1935-01-01,20th Century,1.0,0
+17,Berio,Luciano Berio,1925-01-01,2003-01-01,Post-War,,0
+18,Berlioz,Hector Berlioz,1803-01-01,1869-01-01,Romantic,1.0,0
+19,Bernstein,Leonard Bernstein,1918-01-01,1990-01-01,20th Century,0.0,0
+20,Berwald,Franz Berwald,1796-01-01,1868-01-01,Early Romantic,,0
+21,Biber,Heinrich Franz von Biber,1644-01-01,1704-01-01,Baroque,,0
+22,Birtwistle,Harrison Birtwistle,1934-01-01,,Post-War,,0
+23,Bizet,Georges Bizet,1838-01-01,1875-01-01,Romantic,,0
+24,Bloch,Ernest Bloch,1880-01-01,1959-01-01,20th Century,,0
+25,Boccherini,Luigi Boccherini,1743-01-01,1805-01-01,Classical,,0
+26,Borodin,Alexander Borodin,1833-01-01,1887-01-01,Romantic,1.0,0
+27,Boulez,Pierre Boulez,1925-01-01,2016-01-05,Post-War,1.0,0
+28,Braga Santos,Joly Braga Santos,1924-01-01,1988-01-01,20th Century,,0
+29,Brahms,Johannes Brahms,1833-01-01,1897-01-01,Romantic,1.0,1
+30,Britten,Benjamin Britten,1913-01-01,1976-01-01,20th Century,1.0,0
+31,Bruch,Max Bruch,1838-01-01,1920-01-01,Romantic,,0
+32,Bruckner,Anton Bruckner,1824-01-01,1896-01-01,Romantic,1.0,0
+33,Busoni,Ferruccio Busoni,1866-01-01,1924-01-01,Late Romantic,,0
+34,Buxtehude,Dietrich Buxtehude,1637-01-01,1707-01-01,Baroque,,0
+35,Byrd,William Byrd,1540-01-01,1623-01-01,Renaissance,,0
+36,Cage,John Cage,1912-01-01,1992-01-01,Post-War,,0
+37,Camargo Guarnieri,Camargo Guarnieri,1907-01-01,1993-01-01,20th Century,,0
+38,Carter,Elliott Carter,1908-01-01,2012-11-05,Post-War,,0
+39,Chabrier,Emmanuel Chabrier,1841-01-01,1894-01-01,Romantic,,0
+40,Charpentier,Marc-Antoine Charpentier,1636-01-01,1704-01-01,Baroque,,0
+41,Chausson,Ernest Chausson,1855-01-01,1899-01-01,Romantic,,0
+42,Chávez,Carlos Chávez,1899-01-01,1978-01-01,20th Century,,0
+43,Cherubini,Luigi Cherubini,1760-01-01,1842-01-01,Early Romantic,,0
+44,Chopin,Frédéric Chopin,1810-01-01,1849-01-01,Romantic,1.0,1
+45,Copland,Aaron Copland,1900-01-01,1990-01-01,20th Century,1.0,0
+46,Corelli,Arcangelo Corelli,1653-01-01,1713-01-01,Baroque,,0
+47,Corigliano,John Corigliano,1938-01-01,,21st Century,,0
+48,Couperin,François Couperin,1668-01-01,1733-01-01,Baroque,1.0,0
+49,Crumb,George Crumb,1929-01-01,2022-01-01,Post-War,,0
+50,Cui,César Cui,1835-01-01,1918-01-01,Romantic,,0
+51,d'Indy,Vincent d'Indy,1851-01-01,1931-01-01,Romantic,,0
+52,Daugherty,Michael Daugherty,1954-01-01,,21st Century,,0
+53,Debussy,Claude Debussy,1862-01-01,1918-01-01,Late Romantic,1.0,1
+54,Delibes,Léo Delibes,1836-01-01,1891-01-01,Romantic,,0
+55,Delius,Frederick Delius,1862-01-01,1934-01-01,Late Romantic,,0
+56,Des Prez,Josquin Des Prez,1450-01-01,1521-01-01,Renaissance,1.0,0
+57,Dittersdorf,Karl Ditters von Dittersdorf,1739-01-01,1799-01-01,Classical,,0
+58,Dohnányi,Ernst von Dohnányi,1877-01-01,1960-01-01,Late Romantic,,0
+59,Donizetti,Gaetano Donizetti,1797-01-01,1848-01-01,Early Romantic,,0
+60,Dowland,John Dowland,1563-01-01,1626-01-01,Renaissance,,0
+61,Dufay,Guillaume Dufay,1400-01-01,1474-01-01,Medieval,1.0,0
+62,Dukas,Paul Dukas,1865-01-01,1935-01-01,Late Romantic,,0
+63,Duruflé,Maurice Duruflé,1902-01-01,1986-01-01,20th Century,,0
+64,Dutilleux,Henri Dutilleux,1916-01-01,2013-05-22,Post-War,,0
+65,Dvořák,Antonín Dvořák,1841-01-01,1904-01-01,Romantic,1.0,1
+66,Elgar,Edward Elgar,1857-01-01,1934-01-01,Late Romantic,1.0,0
+67,Enescu,George Enescu,1881-01-01,1955-01-01,Late Romantic,,0
+68,Falla,Manuel de Falla,1876-01-01,1946-01-01,20th Century,1.0,0
+69,Fauré,Gabriel Fauré,1845-01-01,1924-01-01,Late Romantic,,0
+70,Field,John Field,1782-01-01,1837-01-01,Early Romantic,,0
+71,Franck,César Franck,1822-01-01,1890-01-01,Romantic,1.0,0
+72,Frescobaldi,Girolamo Frescobaldi,1583-01-01,1643-01-01,Baroque,,0
+73,Gershwin,George Gershwin,1898-01-01,1937-01-01,20th Century,1.0,1
+74,Gesualdo,Carlo Gesualdo,1561-01-01,1613-01-01,Renaissance,1.0,0
+75,Gibbons,Orlando Gibbons,1583-01-01,1625-01-01,Renaissance,,0
+76,Ginastera,Alberto Ginastera,1916-01-01,1983-01-01,20th Century,1.0,0
+77,Glass,Philip Glass,1937-01-01,,Post-War,1.0,0
+78,Glazunov,Alexander Glazunov,1865-01-01,1936-01-01,Late Romantic,,0
+79,Glière,Reinhold Glière,1875-01-01,1956-01-01,Late Romantic,,0
+80,Glinka,Mikhail Ivanovich Glinka,1804-01-01,1857-01-01,Romantic,,0
+81,Gluck,Christoph Willibald von Gluck,1714-01-01,1787-01-01,Classical,1.0,0
+82,Goldmark,Karl Goldmark,1830-01-01,1915-01-01,Romantic,,0
+83,Gomes,Antonio Carlos Gomes,1836-01-01,1896-01-01,Romantic,,0
+84,Górecki,Henryk Górecki,1933-01-01,2010-01-01,Post-War,,0
+85,Gould,Morton Gould,1913-01-01,1996-01-01,Post-War,,0
+86,Gounod,Charles Gounod,1818-01-01,1893-01-01,Romantic,,0
+87,Grainger,Percy Grainger,1882-01-01,1961-01-01,20th Century,,0
+88,Granados,Enrique Granados,1867-01-01,1916-01-01,Late Romantic,,0
+89,Grieg,Edvard Grieg,1843-01-01,1907-01-01,Romantic,1.0,0
+90,Gubaidulina,Sofia Gubaidulina,1931-01-01,,Post-War,,0
+91,Handel,George Frideric Handel,1685-01-01,1759-01-01,Baroque,1.0,1
+92,Hanson,Howard Hanson,1896-01-01,1981-01-01,20th Century,,0
+93,Harris,Roy Harris,1898-01-01,1979-01-01,20th Century,,0
+94,Haydn,Franz Joseph Haydn,1732-01-01,1809-01-01,Classical,1.0,1
+95,Henze,Hans Werner Henze,1926-01-01,2012-01-01,Post-War,,0
+96,Herbert,Victor Herbert,1859-01-01,1924-01-01,Late Romantic,,0
+97,Hindemith,Paul Hindemith,1895-01-01,1963-01-01,20th Century,,0
+98,Holmboe,Vagn Holmboe,1909-01-01,1996-01-01,20th Century,,0
+99,Holst,Gustav Holst,1874-01-01,1934-01-01,Late Romantic,,0
+100,Honegger,Arthur Honegger,1892-01-01,1955-01-01,20th Century,,0
+101,Hummel,Johann Nepomuk Hummel,1778-01-01,1837-01-01,Early Romantic,,0
+102,Humperdinck,Engelbert Humperdinck,1854-01-01,1921-01-01,Late Romantic,,0
+103,Ibert,Jacques Ibert,1890-01-01,1962-01-01,20th Century,,0
+104,Ives,Charles Ives,1874-01-01,1954-01-01,20th Century,1.0,0
+105,Janacek,Leoš Janáček,1854-01-01,1928-01-01,Late Romantic,1.0,0
+106,Janequin,Clément Janequin,1485-01-01,1558-01-01,Renaissance,1.0,0
+107,Joplin,Scott Joplin,1868-01-01,1917-01-01,Late Romantic,,0
+108,Kabalevsky,Dmitry Kabalevsky,1904-01-01,1987-01-01,20th Century,,0
+109,Khachaturian,Aram Khachaturian,1903-01-01,1978-01-01,20th Century,,0
+110,Kodály,Zoltán Kodály,1882-01-01,1967-01-01,20th Century,,0
+111,Korngold,Erich Wolfgang Korngold,1897-01-01,1957-01-01,20th Century,,0
+112,Lalo,Edouard Lalo,1823-01-01,1892-01-01,Romantic,,0
+113,Lassus,Orlande de Lassus,1532-01-01,1594-01-01,Renaissance,1.0,0
+114,Leoncavallo,Ruggero Leoncavallo,1857-01-01,1919-01-01,Late Romantic,,0
+115,Léonin,Léonin,1135-01-01,1201-01-01,Medieval,1.0,0
+116,Ligeti,György Ligeti,1923-01-01,2006-01-01,Post-War,1.0,0
+117,Liszt,Franz Liszt,1811-01-01,1886-01-01,Romantic,1.0,1
+118,Lopes-Graça,Fernando Lopes-Graça,1906-01-01,1994-01-01,20th Century,,0
+119,Lully,Jean-Baptiste Lully,1632-01-01,1687-01-01,Baroque,1.0,0
+120,Lutoslawski,Witold Lutoslawski,1913-01-01,1994-01-01,Post-War,1.0,0
+121,MacDowell,Edward MacDowell,1860-01-01,1908-01-01,Late Romantic,,0
+122,Machaut,Guillaume de Machaut,1300-01-01,1377-01-01,Medieval,,0
+123,Mahler,Gustav Mahler,1860-01-01,1911-01-01,Late Romantic,1.0,1
+124,Marais,Marin Marais,1656-01-01,1728-01-01,Baroque,,0
+125,Marcello,Benedetto Marcello,1686-01-01,1739-01-01,Baroque,,0
+126,"Marcello, A.",Alessandro Marcello,1684-01-01,1750-01-01,Baroque,,0
+127,Martinů,Bohuslav Martinů,1890-01-01,1959-01-01,20th Century,1.0,0
+128,Mascagni,Pietro Mascagni,1863-01-01,1945-01-01,Late Romantic,,0
+129,Massenet,Jules Massenet,1842-01-01,1912-01-01,Romantic,,0
+130,Mendelssohn,Felix Mendelssohn,1809-01-01,1847-01-01,Romantic,1.0,1
+131,Messiaen,Olivier Messiaen,1908-01-01,1992-01-01,20th Century,1.0,0
+132,Mignone,Francisco Mignone,1897-01-01,1986-01-01,20th Century,,0
+133,Milhaud,Darius Milhaud,1892-01-01,1974-01-01,20th Century,1.0,0
+134,Moeran,Ernest Moeran,1894-01-01,1950-01-01,20th Century,,0
+135,Monteverdi,Claudio Monteverdi,1567-01-01,1643-01-01,Renaissance,1.0,0
+136,Mozart,Wolfgang Amadeus Mozart,1756-01-01,1791-01-01,Classical,1.0,1
+137,Mussorgsky,Modest Mussorgsky,1839-01-01,1881-01-01,Romantic,1.0,0
+138,Nielsen,Carl Nielsen,1865-01-01,1931-01-01,Late Romantic,1.0,0
+139,Nono,Luigi Nono,1924-01-01,1990-01-01,Post-War,,0
+140,Obrecht,Jacob Obrecht,1450-01-01,1505-01-01,Renaissance,,0
+141,Ockeghem,Johannes Ockeghem,1420-01-01,1496-01-01,Renaissance,,0
+142,Offenbach,Jacques Offenbach,1819-01-01,1880-01-01,Romantic,,0
+143,Orff,Carl Orff,1895-01-01,1982-01-01,20th Century,,0
+144,Pachelbel,Johann Pachelbel,1653-01-01,1706-01-01,Baroque,,0
+145,Paganini,Niccolò Paganini,1782-01-01,1840-01-01,Early Romantic,,0
+146,Palestrina,Giovanni Pierluigi da Palestrina,1525-01-01,1594-01-01,Renaissance,1.0,0
+147,Pärt,Arvo Pärt,1935-01-01,,Post-War,1.0,0
+148,Penderecki,Krzysztof Penderecki,1933-01-01,2020-03-29,Post-War,,0
+149,Pergolesi,Giovanni Battista Pergolesi,1710-01-01,1736-01-01,Baroque,,0
+150,Pérotin,Pérotin,1160-01-01,1236-01-01,Medieval,1.0,0
+151,Piazzolla,Astor Piazzolla,1921-01-01,1992-01-01,20th Century,,0
+152,Poulenc,Francis Poulenc,1899-01-01,1963-01-01,20th Century,1.0,0
+153,Praetorius,Michael Praetorius,1571-01-01,1621-01-01,Renaissance,,0
+154,Prokofiev,Sergei Prokofiev,1891-01-01,1953-01-01,20th Century,1.0,0
+155,Puccini,Giacomo Puccini,1858-01-01,1924-01-01,Late Romantic,1.0,1
+156,Purcell,Henry Purcell,1659-01-01,1695-01-01,Baroque,1.0,0
+157,Rachmaninoff,Sergei Rachmaninoff,1873-01-01,1943-01-01,Late Romantic,1.0,0
+158,Rameau,Jean-Philippe Rameau,1683-01-01,1764-01-01,Baroque,1.0,0
+159,Rautavaara,Einojuhani Rautavaara,1928-01-01,2016-07-27,Post-War,,0
+160,Ravel,Maurice Ravel,1875-01-01,1937-01-01,Late Romantic,1.0,1
+161,Reger,Max Reger,1873-01-01,1916-01-01,Late Romantic,,0
+162,Reich,Steve Reich,1936-01-01,,Post-War,1.0,0
+163,Respighi,Ottorino Respighi,1879-01-01,1936-01-01,Late Romantic,,0
+164,Rihm,Wolfgang Rihm,1952-01-01,,Post-War,,0
+165,Rimsky-Korsakov,Nikolai Rimsky-Korsakov,1844-01-01,1908-01-01,Romantic,1.0,0
+166,Rodrigo,Joaquín Rodrigo,1901-01-01,1999-01-01,20th Century,,0
+167,Rorem,Ned Rorem,1923-01-01,,Post-War,,0
+168,Rossini,Gioachino Rossini,1792-01-01,1868-01-01,Early Romantic,1.0,0
+169,Roussel,Albert Roussel,1869-01-01,1937-01-01,Late Romantic,,0
+170,Saint-Saëns,Camille Saint-Saëns,1835-01-01,1921-01-01,Romantic,1.0,0
+171,Salieri,Antonio Salieri,1750-01-01,1825-01-01,Classical,,0
+172,Satie,Erik Satie,1866-01-01,1925-01-01,Late Romantic,,0
+173,Scarlatti,Domenico Scarlatti,1685-01-01,1757-01-01,Baroque,1.0,0
+174,"Scarlatti, A.",Alessandro Scarlatti,1660-01-01,1725-01-01,Baroque,,0
+175,Schmidt,Franz Schmidt,1874-01-01,1939-01-01,Late Romantic,,0
+176,Schnittke,Alfred Schnittke,1934-01-01,1998-01-01,Post-War,1.0,0
+177,Schoenberg,Arnold Schoenberg,1874-01-01,1951-01-01,20th Century,1.0,0
+178,Schubert,Franz Schubert,1797-01-01,1828-01-01,Early Romantic,1.0,1
+179,Schuman,William Schuman,1910-01-01,1992-01-01,20th Century,,0
+180,Schumann,Robert Schumann,1810-01-01,1856-01-01,Romantic,1.0,1
+181,Schütz,Heinrich Schütz,1585-01-01,1672-01-01,Renaissance,1.0,0
+182,Scriabin,Alexander Scriabin,1872-01-01,1915-01-01,Late Romantic,,0
+183,Shostakovich,Dmitri Shostakovich,1906-01-01,1975-01-01,20th Century,1.0,0
+184,Sibelius,Jean Sibelius,1865-01-01,1957-01-01,Late Romantic,1.0,0
+185,Smetana,Bedrich Smetana,1824-01-01,1884-01-01,Romantic,1.0,0
+186,Sor,Fernando Sor,1778-01-01,1839-01-01,Early Romantic,,0
+187,Spohr,Louis Spohr,1784-01-01,1859-01-01,Early Romantic,,0
+188,Stamitz,Carl Stamitz,1745-01-01,1801-01-01,Classical,,0
+189,Stenhammar,Wilhelm Stenhammar,1871-01-01,1927-01-01,Late Romantic,,0
+190,Stockhausen,Karlheinz Stockhausen,1928-01-01,2007-01-01,Post-War,,0
+191,Strauss,Richard Strauss,1864-01-01,1949-01-01,Late Romantic,,0
+192,Strauss Jr,Johann Strauss Jr,1825-01-01,1899-01-01,Romantic,,1
+193,Stravinsky,Igor Stravinsky,1882-01-01,1971-01-01,20th Century,1.0,1
+194,Suk,Josef Suk,1874-01-01,1935-01-01,Late Romantic,,0
+195,Sweelinck,Jan Pieterszoon Sweelinck,1562-01-01,1621-01-01,Renaissance,,0
+196,Szymanowski,Karol Szymanowski,1882-01-01,1937-01-01,Late Romantic,,0
+197,Takemitsu,Toru Takemitsu,1930-01-01,1996-01-01,Post-War,,0
+198,Tallis,Thomas Tallis,1505-01-01,1585-01-01,Renaissance,,0
+199,Tartini,Giuseppe Tartini,1692-01-01,1770-01-01,Baroque,,0
+200,Taverner,John Taverner,1490-01-01,1545-01-01,Renaissance,,0
+201,Tchaikovsky,Pyotr Ilyich Tchaikovsky,1840-01-01,1893-01-01,Romantic,1.0,1
+202,Telemann,Georg Philipp Telemann,1681-01-01,1767-01-01,Baroque,,0
+203,Tippett,Michael Tippett,1905-01-01,1998-01-01,20th Century,,0
+204,Varèse,Edgard Varèse,1883-01-01,1965-01-01,20th Century,,0
+205,Vaughan Williams,Ralph Vaughan Williams,1872-01-01,1958-01-01,Late Romantic,,0
+206,Verdi,Giuseppe Verdi,1813-01-01,1901-01-01,Romantic,1.0,1
+207,Victoria,Tomás Luis de Victoria,1549-01-01,1611-01-01,Renaissance,,0
+208,Villa-Lobos,Heitor Villa-Lobos,1887-01-01,1959-01-01,20th Century,1.0,0
+209,Vivaldi,Antonio Vivaldi,1678-01-01,1741-01-01,Baroque,1.0,1
+210,Wagner,Richard Wagner,1813-01-01,1883-01-01,Romantic,1.0,1
+211,Walton,William Walton,1902-01-01,1983-01-01,20th Century,,0
+212,Weber,Carl Maria von Weber,1786-01-01,1826-01-01,Early Romantic,,0
+213,Webern,Anton Webern,1883-01-01,1945-01-01,20th Century,1.0,0
+214,Weill,Kurt Weill,1900-01-01,1950-01-01,20th Century,,0
+215,Widor,Charles-Marie Widor,1844-01-01,1937-01-01,Romantic,,0
+216,Wolf,Hugo Wolf,1860-01-01,1903-01-01,Romantic,,0
+217,Xenakis,Iannis Xenakis,1922-01-01,2001-01-01,Post-War,,0
+218,Ysaÿe,Eugene Ysaÿe,1858-01-01,1931-01-01,Late Romantic,,0
+219,Zemlinsky,Alexander von Zemlinsky,1871-01-01,1942-01-01,Late Romantic,,0
