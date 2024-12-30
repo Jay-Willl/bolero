@@ -1,16 +1,9 @@
 import pymysql
 import pandas as pd
 
-db_config = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': 'casper',
-    'database': 'bolero'
-}
-
 IN_FILE = '../data/dump.json'
-OUT_FILE_COMPOSER = '../data/composer.csv'
-OUT_FILE_WORK = '../data/work.csv'
+OUT_FILE_COMPOSER = '../data/raw_composer.csv'
+OUT_FILE_WORK = '../data/raw_work.csv'
 
 composer_columns = ['composer_id', 'name', 'complete_name', 'birth', 'death', 'epoch', 'recommended', 'popular']
 composers = pd.DataFrame(columns=composer_columns)
